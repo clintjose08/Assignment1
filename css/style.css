@@ -12,7 +12,7 @@
 	padding-right: 10px;
 }
 li {
-	color: #white;
+	color: white;
 	float: left;
 	height: 50px;
 	display: inline;
@@ -30,12 +30,11 @@ ul{
 ul a {
 	text-decoration: none;
 	color: #7aaedf;
-	font-size: 20;
+	font-size: 16px;
 }
-li:hover, .selected{
-	font-size: 40;
+li:hover{
+	font-size: 20px;
 	text-decoration: underline;
-	background: grey;
 	}	
 
 img {	
@@ -117,7 +116,7 @@ div {
 
 .hero img{
 	margin: auto;
-	border: -100px;
+	border: 100px;
 	padding: -50px;
 	width: 100%;
 	height:auto;
