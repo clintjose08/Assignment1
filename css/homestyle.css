@@ -30,10 +30,10 @@ ul a {
 	color: #7aaedf;
 	font-size: 20;
 }
-li:hover, .selected{
+.selected{
 	font-size: 40;
+	color: white;
 	text-decoration: underline;
-	background: grey;
 	}	
 
 img {	
